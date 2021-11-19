@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\Users\elia\Documents\Trabalho\Cursos Alura\Java_JPA\.metadata\.plugins\org.eclipse.jdt.core
+2357676484.index
+255321711.index
+924313975.index
+70873256.index
+680024364.index
+2887631762.index
+2675444309.index
+4132155174.index
+2045533819.index
+3426855803.index
+3705764905.index
+4075656171.index
+4262126128.index
+2236256672.index
+2694513733.index
+1286711667.index
+672276936.index
+1353295281.index
+2955725161.index
+2686916428.index
+2876340221.index
+1473954207.index
